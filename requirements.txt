@@ -1,0 +1,8 @@
+torch
+transformers
+spaces
+accelerate
+soundfile
+numpy
+scipy
+huggingface_hub
